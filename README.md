@@ -113,16 +113,16 @@ If you find my work helpful, consider buying me a coffee!
 
 </div>
 
-<details>
-<summary>📊 GitHub Stats</summary>
+
+### <summary>📊 GitHub Stats</summary>
 
 ![](https://github-readme-stats.vercel.app/api?username=quocdat029x&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=quocdat029x&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-</details>
 
 
-<summary>🔥 GitHub Streak</summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=quocdat029x)]
+### <summary>🔥 GitHub Streak</summary>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=quocdat029x&theme=tokyonight-duo)](https://nguyenquocdat.dev/)
 
