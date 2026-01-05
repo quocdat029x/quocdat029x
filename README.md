@@ -124,5 +124,5 @@ If you find my work helpful, consider buying me a coffee!
 
 <summary>🔥 GitHub Streak</summary>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=quocdat029x)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=quocdat029x)]
 
